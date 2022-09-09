@@ -4,7 +4,7 @@
 const nextConfig = {
   reactStrictMode: true,
   env: {
-    API_URL: 'https://api.ergopad.io',
+    API_URL: 'https://beta.ergopad.io',
     FORM_EMAIL: 'ergopad.marketing@gmail.com',
   },
   images: {
